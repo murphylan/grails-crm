@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="wrapper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/wrapper/asm-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/wrapper/grails-wrapper-runtime-2.3.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/wrapper/asm-tree-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/wrapper/springloaded-1.1.5.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
